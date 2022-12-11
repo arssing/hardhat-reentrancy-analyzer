@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# hardhat-reentrancy-analyzer
 Run
 
 ```shell
